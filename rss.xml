@@ -6,12 +6,12 @@
     <description>les aventures de Janus Vénus</description>
     <language>fr</language>
 
-    <item>
-      <title>Ras le viol </title>
-      <link>https://janusvenus.com/oeuvres/ras-le-viol</link>
-      <description>Un bon bol de catharsis</description>
-      <pubDate>Mon, 29 Jan 2026 10:00:00 GMT</pubDate>
-    </item>
+  <item>
+  <title>Ras-le-viol</title>
+  <link>https://janusvenus.com/oeuvres/ras-le-viol</link>
+  <description>Un bon bol de catharsis.</description>
+  <pubDate>Mon, 29 Jan 2026 10:00:00 GMT</pubDate>
+</item>
 
     <!-- Ajoute ici jusqu’à 10 articles -->
   </channel>
