@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Janus Vénus</title>
+    <link>https://janusvenus.com/</link>
+    <description>les aventures de Janus Vénus</description>
+    <language>fr</language>
+
+    <item>
+      <title>Article 1 – Titre</title>
+      <link>https://janusvenus.com/article-1</link>
+      <description>Résumé de l’article 1</description>
+      <pubDate>Mon, 29 Jan 2026 10:00:00 GMT</pubDate>
+    </item>
+
+    <!-- Ajoute ici jusqu’à 10 articles -->
+  </channel>
+</rss>
